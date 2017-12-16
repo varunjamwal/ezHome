@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "931336338874",
+    "firebase_url": "https://ezhome-eb357.firebaseio.com",
+    "project_id": "ezhome-eb357",
+    "storage_bucket": "ezhome-eb357.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931336338874:android:36844b1610466c66",
+        "android_client_info": {
+          "package_name": "app.ez.ezhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931336338874-14auojdr0v9r9ke06nlid1qup4mvvg99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.ez.ezhome",
+            "certificate_hash": "b1762f5f35247d2a66e3153033ca454f16009abd"
+          }
+        },
+        {
+          "client_id": "931336338874-2fld346irt0g0lfcdqnmd18sg3isdvtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFjGz984_Qj18_O7TBuG_TOkN8DHGZBqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931336338874-2fld346irt0g0lfcdqnmd18sg3isdvtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
